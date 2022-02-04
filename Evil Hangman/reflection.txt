@@ -1,0 +1,14 @@
+1) This week I learned about maps and how they are just like a more complicated
+version of the data collection we have learned so far.
+
+2) I enjoyed learning about how computer scientists care about how to optimize
+their code for the most fastest code. Also I enjoyed creating hangman which is
+a childhood game where everybody has played at least once
+
+3) I found very frustrating to program the record method because I had a hard time
+fully understanind what was happening behind the hangman game and what I needed to keep
+track of in order to correctly run the evil hangman
+
+4) I found the IPL very helpful. With the given situation, I thought that there were 
+very few students in the IPL when I went and I was able to work with a TA and I found this
+very very helpful in programming this evil hangman.
